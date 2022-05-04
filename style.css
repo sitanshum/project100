@@ -1,0 +1,23 @@
+#start-btn
+{
+    width: 40%;
+} 
+body{
+    background: linear-gradient(to right bottom,rgb(8, 158, 252),rgb(80, 124, 220),rgb(168, 207, 237),rgb(255, 255, 255))
+}
+img
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
